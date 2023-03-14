@@ -1,8 +1,6 @@
 # El código siguiente, que crea un dataframe y quita las filas duplicadas, siempre se ejecuta y actúa como un preámbulo del script: 
-
 # dataset = pandas.DataFrame(Capacitive, Inductive, reactive_type_second_line, activa, reactiva2, Rated power)
 # dataset = dataset.drop_duplicates()
-
 # Pegue o escriba aquí el código de script:
 
 import matplotlib.pyplot as plt 
