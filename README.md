@@ -2,4 +2,4 @@
 Power BI python visuals
 
 Examples:  
-![alt text]("https://github.com/Jalagarto/PBI_python_visuals/pbi_reactive_1.png?raw=true")
+![img1]("https://github.com/Jalagarto/PBI_python_visuals/pbi_reactive_1.png")
