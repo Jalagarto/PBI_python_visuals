@@ -2,6 +2,4 @@
 Power BI python visuals
 
 Examples:  
-![]('pbi reactive 1.png')
-
-[![name]('pbi reactive 1.png')](www.asdf.com)
+![alt text]("https://github.com/Jalagarto/PBI_python_visuals/pbi reactive 1.png?raw=true")
