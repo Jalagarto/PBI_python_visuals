@@ -1,5 +1,5 @@
 # PBI_python_visuals
 Power BI python visuals
 
-Examples:
+Examples:  
 ![]('pbi reactive 1.png')
