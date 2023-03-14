@@ -2,4 +2,4 @@
 Power BI python visuals
 
 Examples:
-![](/path/to/file)
+![]('pbi reactive 1.png')
